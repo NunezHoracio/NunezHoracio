@@ -10,12 +10,11 @@ Mi mayor pasión es el desarrollo web frontend. Tener la posibilidad de dar vida
 
 ## Mi Portfolio 🌐
 
-Si deseas conocer más sobre mis habilidades y ver otros proyectos interesantes, te invito a visitar mi <a href="https://nunezhoracio.github.io/portfolio/" target="_blank">Portfolio</a>. Allí encontrarás una selección adicional de trabajos y detalles sobre mi experiencia profesional.
+Si deseas conocer más sobre mis habilidades y ver otros proyectos interesantes, te invito a visitar mi [Portfolio](https://nunezhoracio.github.io/portfolio/). Allí encontrarás una selección adicional de trabajos y detalles sobre mi experiencia profesional.
 
 ## ¡Contáctame! 📩
 
-¡Estoy emocionado de conectar con otros desarrolladores y profesionales del sector! Si deseas discutir oportunidades de colaboración, proyectos emocionantes o simplemente deseas saludar, no dudes en ponerte en contacto conmigo. Puedes enviarme un correo electrónico a <a href="mailto:nunezhoraciodev@gmail.com" target="_blank">nunezhoraciodev@gmail.com</a> o encontrarme en <a href="https://www.linkedin.com/in/horaciorodolfonunez/" target="_blank">LinkedIn</a>.
+¡Estoy emocionado de conectar con otros desarrolladores y profesionales del sector! Si deseas discutir oportunidades de colaboración, proyectos emocionantes o simplemente deseas saludar, no dudes en ponerte en contacto conmigo. Puedes enviarme un correo electrónico a [nunezhoraciodev@gmail.com](nunezhoraciodev@gmail.com) o encontrarme en [LinkedIn](https://www.linkedin.com/in/horaciorodolfonunez/).
 
 ¡Gracias por visitar mi perfil! ¡Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos! 😄
-
 
