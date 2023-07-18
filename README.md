@@ -4,7 +4,7 @@
 
 Mi nombre es Horacio Nuñez y soy Técnico Universitario en Programación, graduado de la Universidad Tecnológica Nacional en Tucumán, Argentina. 🎓
 
-Me gusta mucho escuchar lo-fi 🎧 y, por supuesto, no puedo empezar mi día sin una buena taza de café ☕.
+Me gusta mucho escuchar lo-fi 🎧 y, por supuesto, no puedo empezar mi día sin una buena taza de café. ☕
 
 Mi mayor pasión es el desarrollo web frontend. Tener la posibilidad de dar vida a través del código a elementos visuales y funcionales es algo que me fascina. 👨‍💻
 
